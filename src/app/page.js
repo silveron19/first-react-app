@@ -1,6 +1,6 @@
 'use client';
 
-import HelloButton from '../components/button/HelloButton';
+import HelloButton from '../components/Button/HelloButton';
 
 export default function Home() {
   return (
